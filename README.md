@@ -1,12 +1,6 @@
-<div align="center" width="50">
-	<a href="https://github.com/felipebaltazar/Xamarin.Forms.NeoControls"  target="_blank">
-		<img src="https://user-images.githubusercontent.com/19656249/87198321-1553fa80-c2d1-11ea-979e-e1b41a97eb45.gif" alt="lib Xamarin Forms Neocontrols" width="100%"/>
-	</a>
-</div>
+### Hi there, I'm [Felipe Baltazar!](https://twitter.com/FelippeBaltazar) 👋
+
 <div align="center">
-
-[![HitCount](http://hits.dwyl.com/felipebaltazar/felipebaltazar.svg)](http://hits.dwyl.com/felipebaltazar/felipebaltazar)
-
 
 <i>Você me encontra nas redes sociais:</i><br>
 
@@ -29,5 +23,26 @@
 <a href="https://medium.com/@felipedasilvabaltazar" target="_blank">
 	<img src="https://img.shields.io/badge/medium-black?&style=flat-square&logo=medium&logoColor=white" alt="medium">
 </a>
+</div>
+<br/>
+
+<a href="https://github.com/felipebaltazar/Xamarin.Forms.NeoControls">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=felipebaltazar" />
+</a>
+<a href="https://github.com/felipebaltazar/Xamarin.Forms.NeoControls">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=felipebaltazar&show_icons=true&line_height=27" alt="Felipe's github stats" />
+</a>
+
+<a href="https://github.com/felipebaltazar/SkiaSharp.Forms.Xaml">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=felipebaltazar&repo=SkiaSharp.Forms.Xaml" />
+</a>    
+<a href="https://github.com/felipebaltazar/Xamarin.Forms.NeoControls">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=felipebaltazar&repo=Xamarin.Forms.NeoControls" />
+</a>
+<br />
+<br />
+<div align="center">
+
+[![HitCount](http://hits.dwyl.com/felipebaltazar/felipebaltazar.svg)](http://hits.dwyl.com/felipebaltazar/felipebaltazar)
 
 </div>
