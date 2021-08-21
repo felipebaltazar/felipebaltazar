@@ -35,24 +35,40 @@
 <div align="center">
   <!--Top Languages-->
   <a href="https://github.com/felipebaltazar/Xamarin.Forms.NeoControls">
-    <img height="180em" align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=felipebaltazar&hide=Batchfile&layout=compact" />
+    <img height="180em" align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=felipebaltazar&hide=Batchfile&layout=compact&theme=dracula" />
   </a>
 
   <!--Stats-->
   <a href="https://github.com/felipebaltazar/Xamarin.Forms.NeoControls">
-    <img height="180em" align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=felipebaltazar&show_icons=true&line_height=27" alt="Felipe's github stats" />
+    <img height="180em" align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=felipebaltazar&show_icons=true&line_height=27&theme=dracula" alt="Felipe's github stats" />
   </a>
 </div>
+
+
+  ##
+
 
 <div align="center">
   <!--Skia Xaml-->
   <a href="https://github.com/felipebaltazar/SkiaSharp.Forms.Xaml">
-    <img align="center" width="406em" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=felipebaltazar&repo=SkiaSharp.Forms.Xaml" />
+    <img align="center" width="406em" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=felipebaltazar&repo=SkiaSharp.Forms.Xaml&theme=dracula" />
   </a>    
 
   <!--Neo Controls-->
   <a href="https://github.com/felipebaltazar/Xamarin.Forms.NeoControls">
-    <img align="center" width="406em" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=felipebaltazar&repo=Xamarin.Forms.NeoControls" />
+    <img align="center" width="406em" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=felipebaltazar&repo=Xamarin.Forms.NeoControls&theme=dracula" />
+  </a>
+</div>
+
+<div align="center">
+  <!--Xartic-->
+  <a href="https://github.com/felipebaltazar/Xartic">
+    <img align="center" width="406em" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=felipebaltazar&repo=Xartic&theme=dracula" />
+  </a>    
+
+  <!--FeatureFlag.Management-->
+  <a href="https://github.com/felipebaltazar/FeatureFlag.Management">
+    <img align="center" width="406em" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=felipebaltazar&repo=FeatureFlag.Management&theme=dracula" />
   </a>
 </div>
 
