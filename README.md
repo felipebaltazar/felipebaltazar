@@ -43,6 +43,6 @@
 <br />
 <div align="center">
 
-[![HitCount](http://hits.dwyl.com/felipebaltazar/felipebaltazar.svg)](http://hits.dwyl.com/felipebaltazar/felipebaltazar)
-
+![Snake animation](https://github.com/felipebaltazar/felipebaltazar/blob/output/github-contribution-grid-snake.svg)
+ 
 </div>
