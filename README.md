@@ -58,6 +58,7 @@
 
 <br />
 <br />
+
 <div align="center">
 
 ![Snake animation](https://github.com/felipebaltazar/felipebaltazar/blob/output/github-contribution-grid-snake.svg)
