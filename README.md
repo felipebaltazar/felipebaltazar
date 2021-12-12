@@ -1,5 +1,8 @@
 ### Hi there, I'm [Felipe Baltazar!](https://twitter.com/FelippeBaltazar) 👋
 
+[![Felipe Baltazar Medium](https://github-readme-medium.vercel.app/?username=felipedasilvabaltazar&&limit=2)](https://medium.com/@felipedasilvabaltazar)
+
+
 <div align="center">
   <i>Você me encontra nas redes sociais:</i>
   <br>
