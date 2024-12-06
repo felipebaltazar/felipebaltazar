@@ -41,12 +41,12 @@
 
 <div align="center">
   <!--Top Languages-->
-  <a href="https://github.com/felipebaltazar/Xamarin.Forms.NeoControls">
-    <img height="180em" align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=felipebaltazar&hide=Batchfile&layout=compact&theme=dracula" />
+  <a href="https://github.com/felipebaltazar/Maui.NeoControls">
+    <img height="180em" align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=felipebaltazar&hide=Batchfile,javascript&layout=compact&theme=dracula" />
   </a>
 
   <!--Stats-->
-  <a href="https://github.com/felipebaltazar/Xamarin.Forms.NeoControls">
+  <a href="https://github.com/felipebaltazar/Maui.NeoControls">
     <img height="180em" align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=felipebaltazar&show_icons=true&line_height=27&theme=dracula" alt="Felipe's github stats" />
   </a>
 </div>
